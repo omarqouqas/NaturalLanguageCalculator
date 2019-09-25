@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Omar
+ *
+ */
+package NaturalLanguageCalculator;
